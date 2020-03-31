@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{6594369B-B7EA-41FF-9A67-423E60B2E0D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CWheelsApi/Controllers/VehiclesController.cs">
+    <Files>
+      <File FileName="CWheelsApi/Controllers/ImagesController.cs" Line="32" Column="1" />
+      <File FileName="CWheelsApi/Controllers/AccountsController.cs" Line="154" Column="1" />
+      <File FileName="CWheelsApi/Models/Image.cs" Line="16" Column="1" />
+      <File FileName="CWheelsApi/Controllers/VehiclesController.cs" Line="1" Column="1" />
+      <File FileName="CWheelsApi/Models/Vehicle.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CWheelsApi" expanded="True">
+            <Node name="CWheelsApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="VehiclesController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CWheelsApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
