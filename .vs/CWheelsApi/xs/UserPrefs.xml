@@ -4,17 +4,15 @@
       <File FileName="CWheelsApi/Controllers/ImagesController.cs" Line="32" Column="1" />
       <File FileName="CWheelsApi/Controllers/AccountsController.cs" Line="154" Column="1" />
       <File FileName="CWheelsApi/Models/Image.cs" Line="16" Column="1" />
-      <File FileName="CWheelsApi/Controllers/VehiclesController.cs" Line="1" Column="1" />
+      <File FileName="CWheelsApi/Controllers/VehiclesController.cs" Line="174" Column="2" />
       <File FileName="CWheelsApi/Models/Vehicle.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CWheelsApi" expanded="True">
-            <Node name="CWheelsApi" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="VehiclesController.cs" selected="True" />
-              </Node>
+            <Node name="CWheelsApi" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="wwwroot" expanded="True" />
